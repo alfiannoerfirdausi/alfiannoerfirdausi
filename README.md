@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My Name is Alfian
 
 
-**alfiannoerfirdausi/alfiannoerfirdausi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**im from indonesia & im fullstack developers | sofware engginer | youtuber | rich people in ASIA top 5.
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611ee5ijijpz3f5mf0rqgv1hncnwqoox98sbefut3gy&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animasi"/>
 </div>
