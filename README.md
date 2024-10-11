@@ -2,6 +2,7 @@
 
 
 **alfiannoerfirdausi/alfiannoerfirdausi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Animasi](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611ee5ijijpz3f5mf0rqgv1hncnwqoox98sbefut3gy&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 Here are some ideas to get you started:
 
